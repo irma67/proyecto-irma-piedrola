@@ -1,0 +1,20 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke-dasharray="5,2,2,2" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="75" x="59.5" stroke-width="0" stroke="#000" fill="#000000">Irma Piédrola Nava</text>
+  <path opacity="0.96" stroke="#000" id="svg_2" d="m70.467507,91.242321l11.077096,0l3.422908,-10.695077l3.42291,10.695077l11.077094,0l-8.961543,6.609846l3.423085,10.695077l-8.961547,-6.610026l-8.961545,6.610026l3.423086,-10.695077l-8.961546,-6.609846z" stroke-width="1.5" fill="#fff"/>
+  <path stroke="#000" id="svg_3" d="m108.46751,91.24232l11.07709,0l3.42291,-10.69508l3.42291,10.69508l11.0771,0l-8.96155,6.60985l3.42309,10.69507l-8.96155,-6.61002l-8.96154,6.61002l3.42308,-10.69507l-8.96154,-6.60985z" stroke-width="1.5" fill="#fff"/>
+  <path stroke="#000" id="svg_4" d="m144.46751,91.24232l11.07709,0l3.42291,-10.69508l3.42291,10.69508l11.0771,0l-8.96155,6.60985l3.42309,10.69507l-8.96155,-6.61002l-8.96154,6.61002l3.42308,-10.69507l-8.96154,-6.60985z" stroke-width="1.5" fill="#fff"/>
+  <path stroke="#000" id="svg_5" d="m218.46751,91.24232l11.07709,0l3.42291,-10.69508l3.42291,10.69508l11.0771,0l-8.96155,6.60985l3.42309,10.69507l-8.96155,-6.61002l-8.96154,6.61002l3.42308,-10.69507l-8.96154,-6.60985z" stroke-width="1.5" fill="#fff"/>
+  <path stroke="#000" id="svg_6" d="m182.46751,90.24232l11.07709,0l3.42291,-10.69508l3.42291,10.69508l11.0771,0l-8.96155,6.60985l3.42309,10.69507l-8.96155,-6.61002l-8.96154,6.61002l3.42308,-10.69507l-8.96154,-6.60985z" stroke-width="1.5" fill="#fff"/>
+ </g>
+</svg>
